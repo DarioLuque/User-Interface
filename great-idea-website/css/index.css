@@ -73,14 +73,12 @@ h1, h2, h3, h4, h5 {
 
 header nav {
   display: inline-block;
-  margin-top: 35px;
 }
 
 header nav a {
-  margin: 0 20px;
+  margin: 0 25px;
   color: black;
   text-decoration: none;
-  position: sticky;
 }
 
 a:hover {
@@ -95,9 +93,9 @@ img {
   margin: 10px;
 }
 
-header .logo {
-  margin-left: 100px;
-  margin-top: 20px;
+.logo {
+  margin-top: 3%;
+  margin-left: 6%;
 }
 
 .code-snippet {
